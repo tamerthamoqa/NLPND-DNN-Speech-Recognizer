@@ -1,0 +1,6 @@
+cudatoolkit 8.0:
+https://anaconda.org/numba/cudatoolkit/files?version=8.0
+
+
+cudnn 6.0:
+https://anaconda.org/free/cudnn/files
